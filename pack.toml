@@ -1,0 +1,13 @@
+name = "Earthlings"
+author = "DrgnFireYellow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "949fd1094dfc584477c71aad99b0e99db47bcd762f7df0ee3255b4253deae3cd"
+
+[versions]
+forge = "43.2.13"
+minecraft = "1.19.2"

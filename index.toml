@@ -1,0 +1,129 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+
+[[files]]
+file = "README.md"
+hash = "f551ee72e7f0108912ced60651f7e03da5623b5f238fdf8e58ed687eac6f53be"
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "82c526d3329017fad175753f9f266702425c7bbdc8f11ffe6e4cc34ddbbcb819"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4784c4a537f58202f40d78552a04f5c8221a2ee362e5fca42262e9415fe2295b"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "72b4e9baeb3065481aeaf244de7c664c10d5c791991fff6bf626a472d713cc0e"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "2053b64e0f1507f2a8c485c57530718a614a53f24a4d0e348975b3127a42753f"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "26f910b83926d321ca302168e4eff32063c497c88ab3b3d7cd31d32c80238274"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+metafile = true
+
+[[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "8dd5e0db0f143bbac9668e7ea98852ddd2a35fc222023aa1d11c0c569fd79ff0"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "fde50922280644688030151b6473a2582544a602612b258d17df281a589ba0cc"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f4472b39e794d2c687042eb9795dcdb6bc7d3c88620e2e38cfa6e4983fa7767b"
+metafile = true
+
+[[files]]
+file = "mods/lil-wings.pw.toml"
+hash = "1e0e72e842da5f9698cc0410801e25fbbf70c12b1a25d1e41f83939f88e39d46"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "db95fe7b730899ce60f3c8cbbf8cf22c8c10d7a1873041d579fe47c587870d33"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "3a93e28b2b0513b79c99e21002adb2cac916860daee87f516b382708a78ae282"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b551987417640fee1dd523b43db90757bbc0377be7638fff3b0d76a6b7785c93"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "7089cdcaf2c1f1b9f6a9a28195c6925cda1af4dce16fd9f6f241d6340d5c8911"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "db9bb383bfa9ced1286549b5b0c2c4a2979d5e4ab39c6e86d7e01bf690f9b7a8"
+metafile = true
+
+[[files]]
+file = "mods/spirit.pw.toml"
+hash = "5b16c3a14ce53c418544d9911a392bd3ec124f7efb21ae05a2dc1864c8430ab5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "df64286a9e3c5424a3230068945bdeaaa63a0e3eccbd54e78b38ee14ea7ad116"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "ddf72aa2140c08e3ee24e383d16894cf726c91828f916ff107bfb18daecb5703"
+metafile = true
