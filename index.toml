@@ -24,6 +24,11 @@ hash = "2264acfbd388023f4c11b06b18e1a8b79b2b078e9fbf4cc38b31e4cb31c653dd"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "61b4ae9dab087d30cae5056f75f6c00258bf7b0f84bb6ca492df24de3b4d685d"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "72b4e9baeb3065481aeaf244de7c664c10d5c791991fff6bf626a472d713cc0e"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "2053b64e0f1507f2a8c485c57530718a614a53f24a4d0e348975b3127a42753f"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
 metafile = true
 
 [[files]]
@@ -56,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fde50922280644688030151b6473a2582544a602612b258d17df281a589ba0cc"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
 
 [[files]]
@@ -126,4 +141,9 @@ metafile = true
 [[files]]
 file = "mods/tempad.pw.toml"
 hash = "ddf72aa2140c08e3ee24e383d16894cf726c91828f916ff107bfb18daecb5703"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b49aeab89f0272bb8bbce57a78dfa561df908c5dcd320635a4736899f1e83e57"
 metafile = true
